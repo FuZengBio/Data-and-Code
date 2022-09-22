@@ -1,5 +1,5 @@
 For plotting figures, download data: "Figure_Souce_Data.mat";
-For plotting Supplementaryfigures, download data: "SupFigure_data.mat";
+For plotting Supplementary figures, download data: "SupFigure_data.mat";
 _____________________________________________________________________________
 For analyzing partial correlations (fig.7)
 1. download data file: "Fig7_PartialCorrelation_example.mat"
