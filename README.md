@@ -18,7 +18,7 @@ For analyzing neuronal PSE shifts within the stimulus time-course
 1. download data file: "Data_session.rar" and unzip to the created file path
 2. download data file: "Neuron_timecourse_list.rar" and unzip to the same directory
 3. download and install the psignifit4 toolbox (from: https://github.com/wichmann-lab/psignifit) and or download code: "psignifit.rar" and unzip to the same directory, and make sure it is included in the Matlab path 
-4. download code: "Neuron_timecourse_list.rar" 
+4. download code: "Neuron_Timecourse_Analysis.m" 
 5. run the code
 
 
